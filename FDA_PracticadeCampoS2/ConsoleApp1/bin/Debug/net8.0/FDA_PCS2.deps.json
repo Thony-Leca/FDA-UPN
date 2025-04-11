@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FDA_PCS2/1.0.0": {
+        "runtime": {
+          "FDA_PCS2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FDA_PCS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.AssemblyInfoInputs.cache
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.AssemblyInfo.cs
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.csproj.CoreCompileInputs.cache
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\bin\Debug\net8.0\FDA_PCS2.exe
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\bin\Debug\net8.0\FDA_PCS2.deps.json
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\bin\Debug\net8.0\FDA_PCS2.runtimeconfig.json
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\bin\Debug\net8.0\FDA_PCS2.dll
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\bin\Debug\net8.0\FDA_PCS2.pdb
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.dll
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\refint\FDA_PCS2.dll
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.pdb
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\FDA_PCS2.genruntimeconfig.cache
+D:\Escritorio\upn\FDA_PracticadeCampoS2\ConsoleApp1\obj\Debug\net8.0\ref\FDA_PCS2.dll

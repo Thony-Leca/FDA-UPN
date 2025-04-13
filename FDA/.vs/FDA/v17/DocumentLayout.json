@@ -3,38 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s3\\lab_pensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|solutionrelative:s3\\lab_pensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|S3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LABS2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s3\\while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|solutionrelative:s3\\while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\aprobated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\aprobated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s3\\n_estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|solutionrelative:s3\\n_estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s3\\n_personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|solutionrelative:s3\\n_personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\percentkids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\percentkids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\labs2\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\labs2\\imc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|solutionrelative:labs2\\imc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A113B80E-72C7-4E1D-950A-CA6E6672A63B}|LABS2\\LABS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{8BC47FC7-B79E-433D-9DA1-8F3BA6A17BB6}|S3\\S3.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,109 +32,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 56,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "S3",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\S3.csproj",
+              "RelativeDocumentMoniker": "S3\\S3.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\S3.csproj",
+              "RelativeToolTip": "S3\\S3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T14:51:04.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Age.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Age.cs",
-              "RelativeDocumentMoniker": "LABS2\\Age.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Age.cs",
-              "RelativeToolTip": "LABS2\\Age.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Title": "LAB_Pensiones.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\LAB_Pensiones.cs",
+              "RelativeDocumentMoniker": "S3\\LAB_Pensiones.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\LAB_Pensiones.cs",
+              "RelativeToolTip": "S3\\LAB_Pensiones.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDwAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:37:43.774Z",
+              "WhenOpened": "2025-04-13T18:31:19.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LABS2",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\LABS2.csproj",
-              "RelativeDocumentMoniker": "LABS2\\LABS2.csproj",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\LABS2.csproj",
-              "RelativeToolTip": "LABS2\\LABS2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-06T18:32:11.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Password.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Password.cs",
-              "RelativeDocumentMoniker": "LABS2\\Password.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Password.cs",
-              "RelativeToolTip": "LABS2\\Password.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Title": "While.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\While.cs",
+              "RelativeDocumentMoniker": "S3\\While.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\While.cs",
+              "RelativeToolTip": "S3\\While.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:30:35.554Z",
+              "WhenOpened": "2025-04-13T17:53:46.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Aprobated.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Aprobated.cs",
-              "RelativeDocumentMoniker": "LABS2\\Aprobated.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Aprobated.cs",
-              "RelativeToolTip": "LABS2\\Aprobated.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Title": "N_Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\N_Estudiantes.cs",
+              "RelativeDocumentMoniker": "S3\\N_Estudiantes.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\N_Estudiantes.cs",
+              "RelativeToolTip": "S3\\N_Estudiantes.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:24:56.079Z",
+              "WhenOpened": "2025-04-13T17:31:04.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Temperature.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Temperature.cs",
-              "RelativeDocumentMoniker": "LABS2\\Temperature.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Temperature.cs",
-              "RelativeToolTip": "LABS2\\Temperature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "N_Personas.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\N_Personas.cs",
+              "RelativeDocumentMoniker": "S3\\N_Personas.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S3\\N_Personas.cs",
+              "RelativeToolTip": "S3\\N_Personas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:13:24.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Percentkids.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Percentkids.cs",
-              "RelativeDocumentMoniker": "LABS2\\Percentkids.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\Percentkids.cs",
-              "RelativeToolTip": "LABS2\\Percentkids.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:59:16.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "operaciones.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\operaciones.cs",
-              "RelativeDocumentMoniker": "LABS2\\operaciones.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\operaciones.cs",
-              "RelativeToolTip": "LABS2\\operaciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:24:48.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMC.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\IMC.cs",
-              "RelativeDocumentMoniker": "LABS2\\IMC.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LABS2\\IMC.cs",
-              "RelativeToolTip": "LABS2\\IMC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T16:47:49.715Z",
+              "WhenOpened": "2025-04-13T17:15:18.93Z",
               "EditorCaption": ""
             }
           ]

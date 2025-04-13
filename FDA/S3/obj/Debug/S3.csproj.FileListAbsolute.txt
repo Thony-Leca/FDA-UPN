@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\bin\Debug\S3.exe.config
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\bin\Debug\S3.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\bin\Debug\S3.pdb
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\obj\Debug\S3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\obj\Debug\S3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\obj\Debug\S3.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S3\obj\Debug\S3.pdb

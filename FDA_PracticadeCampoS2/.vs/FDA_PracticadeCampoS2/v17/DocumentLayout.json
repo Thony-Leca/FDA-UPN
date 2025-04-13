@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|d:\\escritorio\\upn\\fda_practicadecampos2\\consoleapp1\\sueldo_trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|solutionrelative:consoleapp1\\sueldo_trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|d:\\escritorio\\upn\\fda_practicadecampos2\\consoleapp1\\compra_igv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|solutionrelative:consoleapp1\\compra_igv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|d:\\escritorio\\upn\\fda_practicadecampos2\\consoleapp1\\fda_pcs2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda_practicadecampos2\\consoleapp1\\fda_pcs2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|solutionrelative:consoleapp1\\fda_pcs2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|d:\\escritorio\\upn\\fda_practicadecampos2\\consoleapp1\\precio_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F6F102-D27B-4C69-AD40-52EB3597CA67}|ConsoleApp1\\FDA_PCS2.csproj|solutionrelative:consoleapp1\\precio_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FDA_PCS2",
-              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\FDA_PCS2.csproj",
-              "ToolTip": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
               "RelativeToolTip": "ConsoleApp1\\FDA_PCS2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-11T02:15:51.506Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sueldo_Trabajador.cs",
-              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\Sueldo_Trabajador.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Sueldo_Trabajador.cs",
-              "ToolTip": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\Sueldo_Trabajador.cs",
-              "RelativeToolTip": "ConsoleApp1\\Sueldo_Trabajador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T02:14:02.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "compra_IGV.cs",
-              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\compra_IGV.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\compra_IGV.cs",
-              "ToolTip": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\compra_IGV.cs",
-              "RelativeToolTip": "ConsoleApp1\\compra_IGV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:43:49.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "precio_Venta.cs",
-              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\precio_Venta.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\precio_Venta.cs",
-              "ToolTip": "D:\\Escritorio\\upn\\FDA_PracticadeCampoS2\\ConsoleApp1\\precio_Venta.cs",
-              "RelativeToolTip": "ConsoleApp1\\precio_Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:25:50.811Z"
             }
           ]
         }

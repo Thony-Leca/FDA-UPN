@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\bin\Debug\LABS2.exe.config
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\bin\Debug\LABS2.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\bin\Debug\LABS2.pdb
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\obj\Debug\LABS2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\obj\Debug\LABS2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\obj\Debug\LABS2.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LABS2\obj\Debug\LABS2.pdb

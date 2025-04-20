@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\obj\Debug\S5_Funciones.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\obj\Debug\S5_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\bin\Debug\S5_Funciones.exe.config
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\bin\Debug\S5_Funciones.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\bin\Debug\S5_Funciones.pdb
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\obj\Debug\S5_Funciones.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S5_Funciones\S5_Funciones\obj\Debug\S5_Funciones.pdb

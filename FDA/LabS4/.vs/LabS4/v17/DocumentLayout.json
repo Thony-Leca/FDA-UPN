@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\labs4\\labs4\\compra_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|solutionrelative:labs4\\compra_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\labs4\\movilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|solutionrelative:labs4\\movilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LabS4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\labs4\\doble_carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD365E7B-410C-41E7-BFB9-07304B52FA1C}|LabS4\\LabS4.csproj|solutionrelative:labs4\\doble_carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabS4",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\LabS4.csproj",
+              "RelativeDocumentMoniker": "LabS4\\LabS4.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\LabS4.csproj",
+              "RelativeToolTip": "LabS4\\LabS4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-20T14:39:56.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "compra_producto.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\compra_producto.cs",
+              "RelativeDocumentMoniker": "LabS4\\compra_producto.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\compra_producto.cs",
+              "RelativeToolTip": "LabS4\\compra_producto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:30:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "movilidad.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\movilidad.cs",
+              "RelativeDocumentMoniker": "LabS4\\movilidad.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\movilidad.cs",
+              "RelativeToolTip": "LabS4\\movilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:05:12.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "doble_carrera.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\doble_carrera.cs",
+              "RelativeDocumentMoniker": "LabS4\\doble_carrera.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\LabS4\\LabS4\\doble_carrera.cs",
+              "RelativeToolTip": "LabS4\\doble_carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:59:03.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

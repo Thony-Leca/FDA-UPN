@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\bin\Debug\LabS4.exe.config
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\bin\Debug\LabS4.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\bin\Debug\LabS4.pdb
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\obj\Debug\LabS4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\obj\Debug\LabS4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\obj\Debug\LabS4.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\LabS4\LabS4\obj\Debug\LabS4.pdb

@@ -1,0 +1,7 @@
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\bin\Debug\FDA_PracticadeCampoS4.exe.config
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\bin\Debug\FDA_PracticadeCampoS4.exe
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\bin\Debug\FDA_PracticadeCampoS4.pdb
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\obj\Debug\FDA_PracticadeCampoS4.csproj.AssemblyReference.cache
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\obj\Debug\FDA_PracticadeCampoS4.csproj.CoreCompileInputs.cache
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\obj\Debug\FDA_PracticadeCampoS4.exe
+D:\Escritorio\upn\FDA_UPN\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\FDA_PracticadeCampoS4\obj\Debug\FDA_PracticadeCampoS4.pdb

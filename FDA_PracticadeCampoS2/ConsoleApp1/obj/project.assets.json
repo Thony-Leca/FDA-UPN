@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
       "projectName": "FDA_PCS2",
       "projectPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
       "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\obj\\",
+=======
+      "projectUniqueName": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
+      "projectName": "FDA_PCS2",
+      "projectPath": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\FDA_PCS2.csproj",
+      "packagesPath": "C:\\Users\\Thony Leca\\.nuget\\packages\\",
+      "outputPath": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS2\\ConsoleApp1\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

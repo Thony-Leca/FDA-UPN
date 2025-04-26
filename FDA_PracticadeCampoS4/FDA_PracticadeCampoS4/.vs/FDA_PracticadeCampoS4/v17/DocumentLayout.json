@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F0584-DBDD-4A91-9661-9D31899206F4}|FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj|d:\\escritorio\\upn\\fda_upn\\fda_practicadecampos4\\fda_practicadecampos4\\fda_practicadecampos4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F0584-DBDD-4A91-9661-9D31899206F4}|FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj|solutionrelative:fda_practicadecampos4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FDA_PracticadeCampoS4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F0584-DBDD-4A91-9661-9D31899206F4}|FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj|d:\\escritorio\\upn\\fda_upn\\fda_practicadecampos4\\fda_practicadecampos4\\fda_practicadecampos4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FDA_PracticadeCampoS4",
+              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj",
+              "RelativeDocumentMoniker": "FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj",
+              "ToolTip": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj",
+              "RelativeToolTip": "FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T01:17:47.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\Program.cs",
+              "RelativeDocumentMoniker": "FDA_PracticadeCampoS4\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\upn\\FDA_UPN\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\FDA_PracticadeCampoS4\\Program.cs",
+              "RelativeToolTip": "FDA_PracticadeCampoS4\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:12:53.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

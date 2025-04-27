@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\bin\Debug\LabS6.exe.config
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\bin\Debug\LabS6.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\bin\Debug\LabS6.pdb
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\obj\Debug\LabS6.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\obj\Debug\LabS6.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\obj\Debug\LabS6.exe
+C:\Users\UPN\Desktop\FDA-UPN\FDA\S6\LabS6\LabS6\obj\Debug\LabS6.pdb

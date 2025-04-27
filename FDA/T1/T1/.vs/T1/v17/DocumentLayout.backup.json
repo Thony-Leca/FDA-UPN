@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|solutionrelative:t1\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|T1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|solutionrelative:t1\\autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\area_triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|solutionrelative:t1\\area_triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\par_impar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|solutionrelative:t1\\par_impar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\tabla_multiplicar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|solutionrelative:t1\\tabla_multiplicar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S6\\LabS6\\LabS6\\CarWash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE355A4B-C5E4-4948-9F2E-A09D7B0E425D}|T1\\T1.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\t1\\t1\\t1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T1",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\T1.csproj",
+              "RelativeDocumentMoniker": "T1\\T1.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\T1.csproj",
+              "RelativeToolTip": "T1\\T1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-27T16:03:20.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarWash.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S6\\LabS6\\LabS6\\CarWash.cs",
+              "RelativeDocumentMoniker": "..\\..\\S6\\LabS6\\LabS6\\CarWash.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S6\\LabS6\\LabS6\\CarWash.cs",
+              "RelativeToolTip": "..\\..\\S6\\LabS6\\LabS6\\CarWash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:44:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Combustible.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Combustible.cs",
+              "RelativeDocumentMoniker": "T1\\Combustible.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Combustible.cs",
+              "RelativeToolTip": "T1\\Combustible.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:43:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Autenticacion.cs",
+              "RelativeDocumentMoniker": "T1\\Autenticacion.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Autenticacion.cs",
+              "RelativeToolTip": "T1\\Autenticacion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:25:27.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tabla_Multiplicar.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Tabla_Multiplicar.cs",
+              "RelativeDocumentMoniker": "T1\\Tabla_Multiplicar.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Tabla_Multiplicar.cs",
+              "RelativeToolTip": "T1\\Tabla_Multiplicar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:20:11.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Par_Impar.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Par_Impar.cs",
+              "RelativeDocumentMoniker": "T1\\Par_Impar.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Par_Impar.cs",
+              "RelativeToolTip": "T1\\Par_Impar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:14:07.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Area_Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Area_Triangulo.cs",
+              "RelativeDocumentMoniker": "T1\\Area_Triangulo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\T1\\T1\\T1\\Area_Triangulo.cs",
+              "RelativeToolTip": "T1\\Area_Triangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:00:53.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

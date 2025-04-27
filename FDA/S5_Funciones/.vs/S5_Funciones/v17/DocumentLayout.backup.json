@@ -10,11 +10,8 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|S5_Funciones||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27BD1495-B137-49D6-A1A7-613CF393AE40}|S5_Funciones\\S5_Funciones.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s5_funciones\\s5_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27BD1495-B137-49D6-A1A7-613CF393AE40}|S5_Funciones\\S5_Funciones.csproj|C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S5_Funciones\\s5_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27BD1495-B137-49D6-A1A7-613CF393AE40}|S5_Funciones\\S5_Funciones.csproj|solutionrelative:s5_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27BD1495-B137-49D6-A1A7-613CF393AE40}|S5_Funciones\\S5_Funciones.csproj|c:\\users\\upn\\desktop\\fda-upn\\fda\\s5_funciones\\s5_funciones\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +32,7 @@
               "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S5_Funciones\\S5_Funciones\\S5_Funciones.csproj",
               "RelativeToolTip": "S5_Funciones\\S5_Funciones.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-20T18:12:55.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T18:12:55.039Z"
             },
             {
               "$type": "Document",
@@ -46,7 +42,7 @@
               "RelativeDocumentMoniker": "S5_Funciones\\Pago_trabajador.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\FDA-UPN\\FDA\\S5_Funciones\\S5_Funciones\\Pago_trabajador.cs",
               "RelativeToolTip": "S5_Funciones\\Pago_trabajador.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T18:12:29.55Z",
               "EditorCaption": ""
@@ -61,8 +57,7 @@
               "RelativeToolTip": "S5_Funciones\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T16:32:56.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T16:32:56.977Z"
             }
           ]
         }

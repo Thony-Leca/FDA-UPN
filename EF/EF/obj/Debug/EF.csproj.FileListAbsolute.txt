@@ -1,0 +1,7 @@
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\bin\Debug\EF.exe.config
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\bin\Debug\EF.exe
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\bin\Debug\EF.pdb
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\obj\Debug\EF.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\obj\Debug\EF.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\obj\Debug\EF.exe
+C:\Users\UPN\Downloads\FDA-UPN-master\FDA\EF\EF\obj\Debug\EF.pdb
